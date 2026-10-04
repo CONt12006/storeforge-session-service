@@ -1,0 +1,8 @@
+build/
+cmake-build-*/
+.env
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
